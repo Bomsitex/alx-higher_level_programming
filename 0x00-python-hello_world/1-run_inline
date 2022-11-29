@@ -1,2 +1,2 @@
 #!/bin/bash
-f"Best School: {88+10}" $PYCODE
+Python3 -a $PYCODE
